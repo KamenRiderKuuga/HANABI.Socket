@@ -1,4 +1,4 @@
-# 基于.NET原生Socket的WEB API转发工具(2) - 工具实现
+# 基于.NET原生Socket的WEB API转发工具
 
 ## 功能介绍
 
